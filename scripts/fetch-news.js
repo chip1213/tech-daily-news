@@ -9,7 +9,7 @@ if (!API_KEY) {
 }
 console.log(`✓ API Key 讀取成功，長度：${API_KEY.length} 字元`);
 
-const URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${API_KEY}`;
+const URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${API_KEY}`;
 
 const today = new Date().toLocaleDateString('zh-TW', {
   timeZone: 'Asia/Taipei',
