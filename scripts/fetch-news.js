@@ -1,14 +1,14 @@
-import Anthropic from '@anthropic-ai/sdk';
 import fs from 'fs';
 
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const API_KEY = process.env.GEMINI_API_KEY;
+const URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
 
 const today = new Date().toLocaleDateString('zh-TW', {
   timeZone: 'Asia/Taipei',
   year: 'numeric', month: '2-digit', day: '2-digit'
 });
 
-const prompt = `今天是 ${today}。請用網路搜尋，整理今日最新的 AI 產業與低軌衛星新聞。
+const prompt = `今天是 ${today}。請搜尋整理今日最新的 AI 產業與低軌衛星新聞。
 
 請嚴格以 JSON 格式回傳，不要有任何其他文字：
 [
@@ -29,24 +29,30 @@ const prompt = `今天是 ${today}。請用網路搜尋，整理今日最新的 
 async function main() {
   console.log(`[${new Date().toISOString()}] 開始抓取新聞...`);
 
-  const response = await client.messages.create({
-    model: 'claude-opus-4-5-20251101',
-    max_tokens: 1500,
-    tools: [{ type: 'web_search_20250305', name: 'web_search' }],
-    messages: [{ role: 'user', content: prompt }]
+  const response = await fetch(URL, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      contents: [{ parts: [{ text: prompt }] }],
+      tools: [{ google_search: {} }],
+      generationConfig: { temperature: 0.3 }
+    })
   });
 
-  let jsonText = '';
-  for (const block of response.content) {
-    if (block.type === 'text') jsonText += block.text;
+  if (!response.ok) {
+    const err = await response.text();
+    throw new Error(`API 錯誤 ${response.status}: ${err}`);
   }
 
-  jsonText = jsonText.replace(/```json|```/g, '').trim();
-  const s = jsonText.indexOf('[');
-  const e = jsonText.lastIndexOf(']');
+  const data = await response.json();
+  let text = data.candidates?.[0]?.content?.parts?.[0]?.text ?? '';
+
+  text = text.replace(/```json|```/g, '').trim();
+  const s = text.indexOf('[');
+  const e = text.lastIndexOf(']');
   if (s === -1 || e === -1) throw new Error('找不到 JSON 陣列');
 
-  const news = JSON.parse(jsonText.slice(s, e + 1));
+  const news = JSON.parse(text.slice(s, e + 1));
   console.log(`取得 ${news.length} 則新聞`);
 
   const output = {
