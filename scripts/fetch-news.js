@@ -1,6 +1,14 @@
 import fs from 'fs';
 
 const API_KEY = process.env.GEMINI_API_KEY;
+
+// Debug：確認 Key 有沒有被讀到
+if (!API_KEY) {
+  console.error('❌ 找不到 GEMINI_API_KEY，請確認 GitHub Secret 是否設定正確');
+  process.exit(1);
+}
+console.log(`✓ API Key 讀取成功，長度：${API_KEY.length} 字元`);
+
 const URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
 
 const today = new Date().toLocaleDateString('zh-TW', {
@@ -53,7 +61,7 @@ async function main() {
   if (s === -1 || e === -1) throw new Error('找不到 JSON 陣列');
 
   const news = JSON.parse(text.slice(s, e + 1));
-  console.log(`取得 ${news.length} 則新聞`);
+  console.log(`✓ 取得 ${news.length} 則新聞`);
 
   const output = {
     fetchedAt: new Date().toISOString(),
