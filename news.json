@@ -1,64 +1,64 @@
 {
-  "fetchedAt": "2026-06-03T09:00:00.931Z",
-  "date": "2026/06/03",
+  "fetchedAt": "2026-06-03T16:52:01.756Z",
+  "date": "2026/06/04",
   "news": [
     {
-      "title": "COMPUTEX 2026開幕",
-      "summary": "台北國際電腦展COMPUTEX 2026盛大開幕，賴清德總統強調台灣在AI浪潮中的關鍵角色，並期許強化創新研發與國際合作，展現台灣AI產業實力。",
+      "title": "輝達仰賴台灣擴增AI算力",
+      "summary": "輝達AI與資料中心GPU產品行銷總監表示，全球AI算力需求遠超供應，輝達需仰賴台灣生態系擴增產能，以供應全球AI工廠。",
       "region": "tw",
       "topic": "ai"
     },
     {
-      "title": "飛宏集團發表AI能源策略",
-      "summary": "飛宏集團在COMPUTEX 2026發表「AI電力×智慧能源」策略，整合電源供應與智慧能源品牌ZEROVA，強化AI基礎設施與智慧能源市場布局。",
+      "title": "Computex揭示AI趨勢",
+      "summary": "台北國際電腦展Computex 2026揭示代理式AI崛起、AI PC晶片大戰，並指出台積電產能吃緊將持續至2027年，顯示AI產業競爭與供應鏈挑戰。",
       "region": "tw",
       "topic": "ai"
     },
     {
-      "title": "昇達科獲美軍衛星合約",
-      "summary": "昇達科因SpaceX獲美國太空軍22.9億美元衛星通訊合約而受惠，將獨吃零紅鏈訂單，外資看好其成長動能並上修目標價。",
-      "region": "tw",
-      "topic": "sat"
-    },
-    {
-      "title": "穩懋導入AI開發6G PA",
-      "summary": "穩懋半導體投入6G射頻功率放大器關鍵製程開發，整合多種材料技術並導入AI，未來應用於低軌衛星與高速通訊，提升產業競爭力。",
+      "title": "APSCC與TCA合作衛星產業",
+      "summary": "亞太太空社群理事會(APSCC)與台北市電腦公會(TCA)簽署MOU，建立長期合作機制，促進國際衛星市場需求與台灣供應鏈對接。",
       "region": "tw",
       "topic": "sat"
     },
     {
-      "title": "台廠受惠SpaceX IPO",
-      "summary": "SpaceX預計6月IPO，市場預期將帶動全球低軌衛星熱潮，華通、昇達科、啟碁等台灣供應鏈廠商可望受惠於訂單與估值提升。",
+      "title": "經濟部助攻6G低軌衛星",
+      "summary": "經濟部A+計畫核准穩懋等三項前瞻技術研發，聚焦6G高頻通訊、自駕物流與智慧海事AI感知，助攻台灣低軌衛星與通訊產業發展。",
       "region": "tw",
       "topic": "sat"
     },
     {
-      "title": "微軟發布Majorana 2晶片",
-      "summary": "微軟發表新一代拓樸量子晶片Majorana 2，透過Agentic AI提升量子位元可靠性千倍，預計2029年前實現可擴展量子電腦目標。",
+      "title": "華通受惠AI與衛星雙動能",
+      "summary": "華通受惠於AI伺服器光模塊及新一代天上衛星訂單，營收占比預計2028年過半，法人調升獲利預估，顯示其在AI與衛星領域的成長潛力。",
+      "region": "tw",
+      "topic": "sat"
+    },
+    {
+      "title": "微軟發布AI戰略產品",
+      "summary": "微軟在Build 2026大會發布基於Android的Project Solara AI作業系統、自研推理模型等，並與輝達合作推出RTX Spark晶片進軍PC市場，全面布局AI生態。",
       "region": "int",
       "topic": "ai"
     },
     {
-      "title": "Wolters Kluwer攜手OpenAI",
-      "summary": "Wolters Kluwer與OpenAI擴大企業AI合作，旨在為受監管領域的專業人士和機構開發並推出值得信賴的專家AI解決方案。",
+      "title": "美國建立AI模型預審機制",
+      "summary": "美國建立AI預審機制，要求科技業須提前30天向政府分享大型AI模型，旨在確保AI安全與負責任發展，為重要監管里程碑。",
       "region": "int",
       "topic": "ai"
     },
     {
-      "title": "美白宮推動AI創新與安全",
-      "summary": "美國白宮發布行政命令，旨在促進先進人工智慧的創新與安全，強調AI代理的合法使用，並確保國家網路安全。",
+      "title": "Computex聚焦代理式AI",
+      "summary": "Computex 2026顯示AI發展重心從生成式AI轉向代理式AI，業界認為PC將成AI代理核心平台，Arm架構重要性提升，AI PC晶片戰火點燃。",
       "region": "int",
       "topic": "ai"
     },
     {
-      "title": "SpaceX估值下修將IPO",
-      "summary": "SpaceX預計6月中旬掛牌上市，估值下修至1.8兆美元，仍有望創史上最大IPO紀錄，並持續投入星鏈與太空軍合約。",
+      "title": "SpaceX IPO引爆低軌衛星潮",
+      "summary": "SpaceX預計6月IPO，估值上看1.75兆美元，分析師預言低軌衛星網路將重塑全球通訊產業，傳統電信業面臨挑戰。",
       "region": "int",
       "topic": "sat"
     },
     {
-      "title": "Amazon Leo衛星突破330顆",
-      "summary": "Amazon Leo（前身Project Kuiper）透過Atlas V火箭成功部署更多衛星，目前在軌衛星總數已突破330顆，加速部署以符合FCC規定。",
+      "title": "中國衛星產業技術突破",
+      "summary": "2026年6月2日中國通信衛星產業動態顯示技術突破與商用落地齊驅，成功發射通信技術試驗衛星與千帆星座組網衛星，並普及手機直連衛星服務。",
       "region": "int",
       "topic": "sat"
     }
