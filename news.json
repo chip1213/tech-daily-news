@@ -1,64 +1,64 @@
 {
-  "fetchedAt": "2026-06-03T03:28:34.893Z",
+  "fetchedAt": "2026-06-03T09:00:00.931Z",
   "date": "2026/06/03",
   "news": [
     {
-      "title": "賴清德承諾AI供電穩定",
-      "summary": "總統賴清德於COMPUTEX 2026開幕時承諾，台灣電力供應至2032年無虞，將確保AI產業發展所需能源穩定，並推動AI十大建設及人才培育，強化台灣在全球AI供應鏈的關鍵地位。",
+      "title": "COMPUTEX 2026開幕",
+      "summary": "台北國際電腦展COMPUTEX 2026盛大開幕，賴清德總統強調台灣在AI浪潮中的關鍵角色，並期許強化創新研發與國際合作，展現台灣AI產業實力。",
       "region": "tw",
       "topic": "ai"
     },
     {
-      "title": "台灣大AI算力營收成長",
-      "summary": "台灣大哥大宣布其AI算力布局進入收成階段，2026年第一季AI與雲服務相關營收年增471%，AIDC與算力服務營收年增87%，顯示企業對高效能運算需求強勁。",
+      "title": "飛宏集團發表AI能源策略",
+      "summary": "飛宏集團在COMPUTEX 2026發表「AI電力×智慧能源」策略，整合電源供應與智慧能源品牌ZEROVA，強化AI基礎設施與智慧能源市場布局。",
       "region": "tw",
       "topic": "ai"
     },
     {
-      "title": "台廠低軌衛星供應鏈轉型",
-      "summary": "台灣廠商在全球低軌衛星供應鏈中，正從單純製造轉向整合，涵蓋衛星本體、地面設備與通訊模組，以因應國際業者對多元供應來源的需求，強化台灣在太空產業的地位。",
-      "region": "tw",
-      "topic": "sat"
-    },
-    {
-      "title": "台電信商佈局低軌衛星",
-      "summary": "台灣三大電信商中華電信、台灣大、遠傳積極佈局低軌衛星服務，分別引進OneWeb、AST SpaceMobile、Amazon Kuiper，中華電信OneWeb已營運，顯示台灣低軌衛星服務加速發展。",
+      "title": "昇達科獲美軍衛星合約",
+      "summary": "昇達科因SpaceX獲美國太空軍22.9億美元衛星通訊合約而受惠，將獨吃零紅鏈訂單，外資看好其成長動能並上修目標價。",
       "region": "tw",
       "topic": "sat"
     },
     {
-      "title": "台灣自研低軌衛星進展",
-      "summary": "台灣首枚自研低軌通訊實驗衛星預計2026年發射，將驗證通訊酬載與電控推進器穩定度，目標2030年完成初步星系布建，並優先配置於能源與國防關鍵基礎設施。",
+      "title": "穩懋導入AI開發6G PA",
+      "summary": "穩懋半導體投入6G射頻功率放大器關鍵製程開發，整合多種材料技術並導入AI，未來應用於低軌衛星與高速通訊，提升產業競爭力。",
       "region": "tw",
       "topic": "sat"
     },
     {
-      "title": "美國建立AI模型預審制",
-      "summary": "美國政府宣布建立AI預審機制，要求科技公司在向公眾發布最先進AI模型前，須提前30天自願提交政府進行網路安全測試，以確保國家安全並防範AI驅動的網路攻擊。",
+      "title": "台廠受惠SpaceX IPO",
+      "summary": "SpaceX預計6月IPO，市場預期將帶動全球低軌衛星熱潮，華通、昇達科、啟碁等台灣供應鏈廠商可望受惠於訂單與估值提升。",
+      "region": "tw",
+      "topic": "sat"
+    },
+    {
+      "title": "微軟發布Majorana 2晶片",
+      "summary": "微軟發表新一代拓樸量子晶片Majorana 2，透過Agentic AI提升量子位元可靠性千倍，預計2029年前實現可擴展量子電腦目標。",
       "region": "int",
       "topic": "ai"
     },
     {
-      "title": "輝達投資法國量子AI新創",
-      "summary": "輝達（NVIDIA）旗下創投基金NVentures戰略投資法國量子運算新創Alice & Bob，搶進法國10億歐元國家級量子戰略，顯示AI巨頭對量子運算未來發展的重視與布局。",
+      "title": "Wolters Kluwer攜手OpenAI",
+      "summary": "Wolters Kluwer與OpenAI擴大企業AI合作，旨在為受監管領域的專業人士和機構開發並推出值得信賴的專家AI解決方案。",
       "region": "int",
       "topic": "ai"
     },
     {
-      "title": "全球AI熱點速遞與挑戰",
-      "summary": "全球AI產業競爭從模型轉向落地與生態，NVIDIA發布新晶片，Anthropic成最有價值私營AI公司，同時AI引發資安漏洞與版權爭議，佛州起訴OpenAI。",
+      "title": "美白宮推動AI創新與安全",
+      "summary": "美國白宮發布行政命令，旨在促進先進人工智慧的創新與安全，強調AI代理的合法使用，並確保國家網路安全。",
       "region": "int",
       "topic": "ai"
     },
     {
-      "title": "星鏈預計2034年破億用戶",
-      "summary": "根據New Street Research報告，SpaceX的星鏈網路預計在2034年用戶數將突破1億，較目前成長十倍，主要受惠於V2和V3衛星部署及成本下降，將顛覆寬頻市場。",
+      "title": "SpaceX估值下修將IPO",
+      "summary": "SpaceX預計6月中旬掛牌上市，估值下修至1.8兆美元，仍有望創史上最大IPO紀錄，並持續投入星鏈與太空軍合約。",
       "region": "int",
       "topic": "sat"
     },
     {
-      "title": "SpaceX獲美軍衛星追蹤合約",
-      "summary": "SpaceX獲得美國宇宙軍約324億港元合約，將建造「宇宙配備型航空移動目標探知系統」衛星群，預計2028年前部署完成，用於全球範圍追蹤導彈與航空威脅。",
+      "title": "Amazon Leo衛星突破330顆",
+      "summary": "Amazon Leo（前身Project Kuiper）透過Atlas V火箭成功部署更多衛星，目前在軌衛星總數已突破330顆，加速部署以符合FCC規定。",
       "region": "int",
       "topic": "sat"
     }
