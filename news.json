@@ -1,65 +1,65 @@
 {
-  "fetchedAt": "2026-06-11T08:50:44.095Z",
-  "date": "2026/06/11",
+  "fetchedAt": "2026-06-12T02:52:02.549Z",
+  "date": "2026/06/12",
   "news": [
     {
-      "title": "蘋果Siri整合Gemini",
-      "summary": "蘋果在WWDC 2026宣布Siri將由客製化Google Gemini模型驅動，並推出iOS 27及多AI擴充系統，首次支援Claude等AI模型，強化其AI功能。",
-      "region": "int",
-      "topic": "ai"
-    },
-    {
-      "title": "微軟AI平台整合Claude",
-      "summary": "微軟完成其包含11,000多個模型的Foundry目錄，其中整合了Anthropic的Claude Opus 4.8，進一步擴展其企業級AI解決方案。",
-      "region": "int",
-      "topic": "ai"
-    },
-    {
-      "title": "甲骨文AI基建支出超預期",
-      "summary": "甲骨文因為OpenAI等客戶大規模建設資料中心，導致資本支出高於預期，引發投資者對其AI基礎設施業務盈利能力的擔憂，股價盤後下跌。",
-      "region": "int",
-      "topic": "ai"
-    },
-    {
-      "title": "新創NewOrbit開拓超低軌道",
-      "summary": "歐洲衛星製造商NewOrbit完成1850萬美元A輪融資，將商業化超低地球軌道(VLEO)，提供更便宜、高品質的衛星影像與5G直連設備服務。",
-      "region": "int",
-      "topic": "sat"
-    },
-    {
-      "title": "亞馬遜Leo衛星獲展延",
-      "summary": "美國FCC批准亞馬遜Leo的低軌衛星部署期限延長24個月，將中期部署里程碑推遲至2028年7月，以應對發射延誤和技術問題。",
-      "region": "int",
-      "topic": "sat"
-    },
-    {
-      "title": "AI代理服務推升SSD危機",
-      "summary": "受AI代理服務普及與CSP業者強勁訂單帶動，2026年第一季全球企業級SSD營收創新高，合約價飆升80%，市場面臨嚴重供需失衡。",
+      "title": "台灣AI轉型軟硬體強權",
+      "summary": "台灣在倫敦科技週論壇上，台灣AI卓越中心總召集人許永真指出，台灣有野心轉型為「軟硬體俱佳」的AI強權，但面臨制度、人才與投資挑戰待解。",
       "region": "tw",
       "topic": "ai"
     },
     {
-      "title": "貝萊德看好台AI相關產業",
-      "summary": "貝萊德系統化平台持續看好AI題材，特別是半導體和大型雲端，並認為台灣的工業和化學產業在AI趨勢下也存在相當機會。",
+      "title": "Raccoon AI攜手OpenAI",
+      "summary": "台灣Raccoon AI公司與OpenAI合作，推出全新對話式AI解決方案，旨在提升企業智能客服效率，解決消費者即時互動需求，並已服務逾200家品牌客戶。",
       "region": "tw",
       "topic": "ai"
+    },
+    {
+      "title": "SpaceX上市帶動台廠",
+      "summary": "低軌衛星大廠SpaceX即將上市，激勵台灣低軌衛星概念股如昇達科、華通、啟碁等盤中大漲，顯示市場對相關供應鏈前景樂觀。",
+      "region": "tw",
+      "topic": "sat"
     },
     {
       "title": "宣德星鏈訂單倍增",
-      "summary": "宣德科技宣布喜獲國際大廠多項訂單，其中SpaceX旗下Starlink地面接收站訂單金額翻倍，低軌衛星業務成為公司今年主要成長動能。",
+      "summary": "連接器廠宣德科技在低軌衛星領域布局有成，預計今年來自SpaceX旗下Starlink地面接收站的訂單金額將較去年倍增，營收占比挑戰5%。",
       "region": "tw",
       "topic": "sat"
     },
     {
-      "title": "SpaceX上市帶動台衛星股",
-      "summary": "低軌衛星大廠SpaceX即將上市，激勵台灣低軌衛星概念股盤中大漲，昇達科、華通、啟碁等供應鏈廠商股價勁揚。",
+      "title": "台廠搶食兆元衛星商機",
+      "summary": "研調機構預估全球衛星產業產值將達4470億美元，SpaceX上市帶動市場對低軌衛星的關注，華通、昇達科等15家台廠被看好搶食兆元商機。",
       "region": "tw",
       "topic": "sat"
     },
     {
-      "title": "SpaceX太空AI計畫利好台廠",
-      "summary": "馬斯克揭露SpaceX的AI資料中心衛星草案，目標2027年啟動大規模太空AI建置，預計將為台灣低軌衛星相關供應鏈帶來商機。",
-      "region": "tw",
+      "title": "OpenAI擬掀AI價格戰",
+      "summary": "華爾街日報報導，OpenAI為搶奪競爭對手Anthropic客戶，正考慮大幅調降AI產品費用，此舉恐加劇AI產業的獲利壓力與競爭。",
+      "region": "int",
+      "topic": "ai"
+    },
+    {
+      "title": "高盛估AI資本支出達1.4兆",
+      "summary": "高盛報告指出，市場低估AI基礎設施投資浪潮，預估2027年超大規模雲端業者AI資本支出上限可能高達1.4兆美元，推動AI基建股估值創新高。",
+      "region": "int",
+      "topic": "ai"
+    },
+    {
+      "title": "AI產業轉向CPU+GPU驅動",
+      "summary": "美國銀行報告指出，隨著代理式AI崛起，AI算力架構正從「GPU單核驅動」轉變為「CPU+GPU雙引擎驅動」，CPU市場規模預計將大幅增長。",
+      "region": "int",
+      "topic": "ai"
+    },
+    {
+      "title": "SpaceX IPO引爆衛星熱潮",
+      "summary": "SpaceX已秘密提交IPO申請，預計6月上市，有望成為史上最大IPO案，籌資將用於擴大星鏈網路及星艦計畫，引爆全球低軌衛星產業熱潮。",
+      "region": "int",
+      "topic": "sat"
+    },
+    {
+      "title": "低軌衛星市場規模擴大",
+      "summary": "低軌衛星市場規模預計在2035年前成長約7倍，上看1080億美元，SpaceX持續鞏固霸權，並積極布局手機直連衛星、AI太空運算等新興領域。",
+      "region": "int",
       "topic": "sat"
     }
   ]
