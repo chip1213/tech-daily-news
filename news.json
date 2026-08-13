@@ -1,64 +1,64 @@
 {
-  "fetchedAt": "2026-08-13T05:43:48.520Z",
+  "fetchedAt": "2026-08-13T13:12:17.260Z",
   "date": "2026/08/13",
   "news": [
     {
-      "title": "中國AI駭客攻擊台灣政府",
-      "summary": "消息指出，中國駭客利用開源AI工具大規模攻擊台灣政府網站，竊取逾千筆個資，凸顯AI正改變網路戰型態，台灣數位發展部已處理相關事件。",
+      "title": "台灣政府遭AI網攻",
+      "summary": "台灣數位發展部證實，上月偵測到來自海外、由AI輔助的網路攻擊，目標鎖定政府機構，但已成功處理。此事件凸顯AI在網路戰中的新威脅。",
       "region": "tw",
       "topic": "ai"
     },
     {
-      "title": "台灣AI加速大會登場",
-      "summary": "零壹舉辦「AI ON Growth 2026臺灣AI加速大會」，聚焦企業AI從試點走向全面部署，強調AI轉型需整合資料、情境與協作執行，提升決策效率。",
+      "title": "仁寶AI伺服器營收增",
+      "summary": "仁寶2026年第二季財報顯示，非PC業務貢獻強勁，AI伺服器營收已追平去年總和，佔伺服器產品組合逾半，高階AI PC占比提升帶動營收與毛利率成長。",
       "region": "tw",
       "topic": "ai"
     },
     {
-      "title": "Starlink V3部署台廠受惠",
-      "summary": "Starlink V3衛星完成部署，提供低延遲寬頻與手機直連服務，台灣昇達科、穩懋、全訊等半導體與微波元件大廠迎來新訂單商機。",
-      "region": "tw",
-      "topic": "sat"
-    },
-    {
-      "title": "電信三雄搶攻低軌衛星",
-      "summary": "台灣電信三雄積極布局低軌衛星市場，中華電信整合多軌服務，台灣大押注手機直連，遠傳鎖定企業政府，迎接Starlink來台新戰局。",
+      "title": "台廠受惠星鏈V3部署",
+      "summary": "TrendForce報告指出，Starlink V3衛星部署將帶動全球火箭發射市場成長，台灣昇達科、穩懋、全訊等半導體與微波元件大廠，以及啟碁等RF模組整合方案商將獲訂單。",
       "region": "tw",
       "topic": "sat"
     },
     {
-      "title": "昇達科受惠低軌衛星",
-      "summary": "昇達科受惠SpaceX V3衛星規格升級與Amazon後續訂單，憑藉微波與毫米波元件領先地位，法人看好其低軌衛星業務成長潛力。",
+      "title": "台灣搶攻太空供應鏈",
+      "summary": "台灣科技製造商積極投入太空領域，國家太空中心推動本土衛星供應鏈，LiscoTech開發星載AI運算模組，鴻海、緯創、仁寶等大廠也探索太空商機，華通、昇達科供應關鍵零組件。",
       "region": "tw",
       "topic": "sat"
     },
     {
-      "title": "SpaceX推Grok 4.6擴張AI",
-      "summary": "SpaceX推出新AI模型Grok 4.6，執行長馬斯克預估AI營收最快9月超越其他事業，並計劃2027年底前將AI算力提高十倍。",
+      "title": "信錦切入低軌衛星市場",
+      "summary": "轉軸大廠信錦（1582）積極轉型，已成功切入美系低軌衛星大廠Starlink的地面接收設備機構件供應鏈，並將業務延伸至發射端精密航太機構件，搶攻低軌衛星商機。",
+      "region": "tw",
+      "topic": "sat"
+    },
+    {
+      "title": "Anthropic為AI內容加浮水印",
+      "summary": "美國AI公司Anthropic宣布，自8月2日起在其Claude模型生成的文字中嵌入肉眼不可見的浮水印，以符合歐盟AI法規，提升AI內容透明度與可追溯性。",
       "region": "int",
       "topic": "ai"
     },
     {
-      "title": "Google布林施壓加速Gemini",
-      "summary": "谷歌共同創辦人布林親自介入AI模型研發，要求DeepMind加速推進Gemini，但因內部測試落後，新一代旗艦模型推出時程延後。",
+      "title": "Anthropic擬60億美元收購Decart",
+      "summary": "消息指出，AI新創公司Anthropic正洽談以約60億美元收購AI新創Decart AI，旨在補強其AI推論技術，並強化基礎設施以應對日益增長的需求。",
       "region": "int",
       "topic": "ai"
     },
     {
-      "title": "Anthropic導入AI浮水印",
-      "summary": "美國AI公司Anthropic自8月2日起，在其Claude大型語言模型產生的文字中嵌入肉眼無法察覺的浮水印，以符合歐盟AI透明度規範。",
+      "title": "全球AI產業格局：美中領先",
+      "summary": "2026年全球AI市場規模達7575.8億美元，Gartner預測AI總支出將超2.5兆美元。全球產業呈三級梯隊，美中在基礎研究、應用場景、數據規模等方面各具優勢，共同引領發展。",
       "region": "int",
       "topic": "ai"
     },
     {
-      "title": "越南VinSpace攜手SpaceX",
-      "summary": "越南VinSpace與SpaceX簽署衛星發射合約，首批自研衛星預計2027年升空，標誌越南自主太空產業發展的重要進展。",
+      "title": "Starlink V3衛星部署加速",
+      "summary": "Starlink近期完成首批V3衛星部署，搭載超大相位陣列天線並降低軌道高度，可提供極低延遲頻寬及手機直連服務，預計將帶動2028年全球火箭發射市場規模達404億美元。",
       "region": "int",
       "topic": "sat"
     },
     {
-      "title": "SpaceX火箭撞月引太空維修",
-      "summary": "SpaceX廢棄火箭撞月事件，凸顯地月空間物體追蹤與處置重要性，催生太空基礎建設新產業鏈，開啟太空維修千億新藍海。",
+      "title": "SpaceX搶攻行動通訊市場",
+      "summary": "SpaceX旗下Starlink計畫擴展服務範圍，目標鎖定美國行動通訊市場，挑戰AT&T、Verizon等電信巨頭。透過新一代衛星與地面基地台，提供更全面的行動通訊服務。",
       "region": "int",
       "topic": "sat"
     }
