@@ -1,64 +1,64 @@
 {
-  "fetchedAt": "2026-08-26T00:52:43.583Z",
+  "fetchedAt": "2026-08-26T04:45:51.255Z",
   "date": "2026/08/26",
   "news": [
     {
-      "title": "台灣AI學程非資通訊系佔六成",
-      "summary": "教育部推動「臺灣大專院校人工智慧學程聯盟」，首批獲證學生中，六成來自非資訊通訊科技學門，顯示AI人才培育已跨足多元領域，有助於各產業應用AI解決問題。",
+      "title": "台灣AI雲提企業AI需求",
+      "summary": "台灣AI雲總經理吳漢章指出，隨著開源模型成熟與算力普及，企業導入AI概念驗證門檻降低，但從示範到正式部署需支援核心工作流程。",
       "region": "tw",
       "topic": "ai"
     },
     {
-      "title": "智慧台中論壇聚焦AI機器人",
-      "summary": "2026智慧台中論壇於8月26日登場，聚焦AI發展趨勢及機器人產業應用，邀請產官學研專家探討台中發展AI機器人產業的優勢與未來方向，旨在打造台灣AI機器人產業聚落。",
+      "title": "台中論壇聚焦實體AI",
+      "summary": "2026智慧台中論壇探討實體AI從技術創新到產業量產應用，市長盧秀燕盼台中成實體AI研發製造基地，打造「AI機器人之都」。",
       "region": "tw",
       "topic": "ai"
     },
     {
-      "title": "川普推太空發射 台廠衛星鏈受惠",
-      "summary": "美國總統川普推動2030年前每年太空發射千次目標，SpaceX星鏈V3衛星8月底啟動，帶動台灣低軌衛星供應鏈如華通、昇達科等商機升溫，預計將迎來更多訂單。",
-      "region": "tw",
-      "topic": "sat"
-    },
-    {
-      "title": "SpaceX新衛星營運 台廠概念股漲",
-      "summary": "SpaceX宣布旗下Starlink V3衛星將於8月底首度營運，激勵台灣低軌衛星概念股逆勢上揚，其中瀚荃盤中漲幅近8%，昇達科也看好下半年營運將明顯轉強。",
+      "title": "福衛八號影像成功解碼",
+      "summary": "円通科技HyperSDR衛星地面站數據機成功接收並解碼福衛八號首顆衛星「齊柏林衛星」下傳的高解析度光學影像，展現國產地面設備實力。",
       "region": "tw",
       "topic": "sat"
     },
     {
-      "title": "電信三雄布局低軌衛星新戰局",
-      "summary": "台灣電信三雄積極布局低軌衛星服務，中華電信與OneWeb合作，台灣大與AST SpaceMobile，遠傳代理Amazon Leo，顯示電信業者正拓展星地整合通訊應用。",
+      "title": "萬泰科擴低軌衛星產能",
+      "summary": "線材廠萬泰科低軌衛星應用營收佔比逐季增長，規劃擴充泰國低軌衛星線束產能一倍，以因應客戶需求並放大太空經濟挹注。",
       "region": "tw",
       "topic": "sat"
     },
     {
-      "title": "8月AI產業月報：模型融資政策整合",
-      "summary": "2026年8月AI產業月報顯示，前沿模型迭代加速，資本以千億美元計湧入基礎建設，安全與治理爭議同步升溫，涵蓋模型、融資與政策三大面向。",
+      "title": "台廠卡位SpaceX太空AI",
+      "summary": "SpaceX與NVIDIA合作將AI運算基礎設施延伸至軌道，首批AI衛星Starmind AI1預計明年第四季發射，台灣供應鏈將提前受惠。",
+      "region": "tw",
+      "topic": "sat"
+    },
+    {
+      "title": "Gartner預測AI安全市場",
+      "summary": "Gartner預測全球AI安全市場將快速成長，2027年達48億美元，企業急需保護AI系統、應對新漏洞並強化網路防禦。",
       "region": "int",
       "topic": "ai"
     },
     {
-      "title": "路透結合阿里千問打造AI模型",
-      "summary": "全球內容巨擘湯森路透推出首款自家AI模型「Thomson-1」，結合阿里巴巴開源模型通義千問，旨在減少對昂貴模型的依賴，並專注於文件審閱等應用。",
+      "title": "Guidepoint助金融業AI轉型",
+      "summary": "Guidepoint與Google Cloud合作，將專家洞察整合至Gemini Enterprise金融服務版，助金融團隊在安全AI環境中加速研究工作流程。",
       "region": "int",
       "topic": "ai"
     },
     {
-      "title": "美歐AI投資差距擴大引關注",
-      "summary": "英國金融時報報導，預測2021至2027年底美國企業AI投資增幅將是歐洲三倍以上，凸顯AI熱潮正擴大美歐經濟體差距，並引發對投資熱潮風險的關注。",
+      "title": "行銷AI報告：Claude超ChatGPT",
+      "summary": "2026年行銷AI產業報告顯示，在有經驗的行銷人員中，Claude已超越ChatGPT成為最重要的AI工具，反映市場偏好變化。",
       "region": "int",
       "topic": "ai"
     },
     {
-      "title": "SpaceX攜輝達明年發射AI衛星",
-      "summary": "SpaceX計劃明年將搭載輝達AI晶片的衛星送入太空，加速在軌道建造AI資料中心的計畫，目標在2027年第四季發射首批Starmind AI1衛星。",
+      "title": "SpaceX開放太空安全服務",
+      "summary": "SpaceX開放「Stargaze」太空態勢感知平台予外部衛星營運商，利用星鏈衛星感測器提供近即時軌道追蹤與碰撞預警。",
       "region": "int",
       "topic": "sat"
     },
     {
-      "title": "Amazon與星鏈衛星網路競爭報告",
-      "summary": "2026年8月報告顯示，Amazon Leo與Starlink在衛星網路競爭中，Starlink在稼動衛星數和契約者數方面仍大幅領先，Amazon Leo則面臨FCC發射目標未達標問題。",
+      "title": "Shield AI驗證軌道AI飛行員",
+      "summary": "Shield AI與Sedaro完成首次軌道飛行測試，將Hivemind自主系統部署於低軌衛星，實現太空中的即時衛星操作管理。",
       "region": "int",
       "topic": "sat"
     }
