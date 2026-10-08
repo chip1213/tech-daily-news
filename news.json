@@ -1,64 +1,64 @@
 {
-  "fetchedAt": "2026-10-07T18:33:29.255Z",
+  "fetchedAt": "2026-10-08T03:53:17.530Z",
   "date": "2026/10/08",
   "news": [
     {
-      "title": "台灣實體AI進軍矽谷",
-      "summary": "台灣半導體與AI新創公司攜手美國科技巨頭，在矽谷推動「實體AI」應用，旨在將AI從模型導入工廠與實際環境，強化產業鏈合作與商業化落地。",
-      "region": "tw",
-      "topic": "ai"
-    },
-    {
       "title": "聆機科技獲ASOCIO獎",
-      "summary": "台灣聆機科技旗下企業AI平台AnyInsight.ai，因其安全與治理兼備的企業AI導入能力，榮獲ASOCIO全球商業服務獎，顯示台灣在AI治理領域獲國際肯定。",
+      "summary": "聆機科技旗下企業AI平台AnyInsight.ai榮獲ASOCIO全球商業服務獎，肯定其在企業AI導入安全與治理方面的卓越能力，反映企業對AI治理的重視。",
       "region": "tw",
       "topic": "ai"
     },
     {
-      "title": "華通低軌衛星營收創新高",
-      "summary": "HDI龍頭華通受惠SpaceX星鏈V3衛星出貨與D2C需求，9月及第三季營收雙創新高，法人看好其低軌衛星業務爆發力，目標價上看320元。",
+      "title": "台股AI供應鏈受青睞",
+      "summary": "台灣憑藉完整的AI供應鏈，從晶片設計到伺服器製造皆具優勢，成為全球AI投資熱點，吸引資金配置，超越韓國股市表現。",
+      "region": "tw",
+      "topic": "ai"
+    },
+    {
+      "title": "華通低軌衛星營收新高",
+      "summary": "HDI龍頭華通9月營收與第三季合計營收雙創歷史新高，受惠於Starlink V3衛星出貨及D2C衛星需求，法人看好其後市成長動能。",
       "region": "tw",
       "topic": "sat"
     },
     {
-      "title": "事欣科Q4出貨低軌衛星",
-      "summary": "事欣科第四季將正式出貨AST SpaceMobile低軌衛星關鍵電子通訊模組，並卡位反無人機與戰車軍工專案，預計將帶動公司營運成長。",
+      "title": "昇達科、啟碁衛星業務增",
+      "summary": "昇達科8月營收年增93.19%，啟碁前八月營收破千億，兩家台廠受惠於SpaceX等科技巨頭布局太空AI基礎建設，持續擴張低軌衛星市場。",
       "region": "tw",
       "topic": "sat"
     },
     {
-      "title": "昇達科啟碁低軌衛星大成長",
-      "summary": "昇達科8月營收年增93%，啟碁前八月營收破千億，兩家台廠受惠科技巨頭投入太空AI與SpaceX星艦任務，積極擴張低軌衛星市場版圖。",
+      "title": "台廠鏈結國防低軌衛星",
+      "summary": "台灣國防科技論壇探討無人機與低軌衛星整合，強調台灣半導體、ICT優勢可打造可信賴供應鏈，鏈結AI與低軌衛星新契機。",
       "region": "tw",
       "topic": "sat"
     },
     {
-      "title": "IMF示警AI擴大全球不平等",
-      "summary": "國際貨幣基金總裁喬治艾娃警告，AI熱潮正迅速成為全球經濟驅動力，但可能因部分國家無法跟上，導致全球經濟不平等風險擴大。",
+      "title": "微軟推PC端AI模型",
+      "summary": "微軟發表可在PC運行的AI編程模型與資安技術，防止AI代理未經授權存取數據，旨在將更多AI功能導入個人裝置，挑戰蘋果策略。",
       "region": "int",
       "topic": "ai"
     },
     {
-      "title": "全球AI監管分歧挑戰多",
-      "summary": "最新報告指出，全球AI監管框架日益 fragmented，歐盟、英國與美國採取不同策略，企業在AI開發與部署上面臨合規挑戰與不確定性。",
+      "title": "歐盟倡議.IA網域治理",
+      "summary": "歐盟執委會推動「.IA」專屬網域倡議，旨在建立高信任數位空間與AI監理沙盒，整合AI治理規範，強化歐洲數位主權。",
       "region": "int",
       "topic": "ai"
     },
     {
-      "title": "ChatGPT青少年保護失敗",
-      "summary": "一份報告揭露，OpenAI為保護青少年用戶在ChatGPT上設置的安全措施，在涉及自殺對話時未能有效警示家長，引發外界對AI安全性的擔憂。",
+      "title": "Google發布新AI模型",
+      "summary": "Google推出全新AI影像模型Nano Banana 2.1，產圖成本減半且性能超越Pro版，並發布EmbeddingGemma 2模型，強化Mac離線AI工具整合。",
       "region": "int",
       "topic": "ai"
     },
     {
-      "title": "土耳其發表低軌衛星Gokbagi",
-      "summary": "土耳其國防公司Aselsan在IAC 2026大會上發表其自主研發的Gokbagi（國際稱Astralink）低軌通訊衛星星座，旨在提供軍民安全通訊服務，預計數年內發射。",
+      "title": "SpaceX星艦部署V3衛星",
+      "summary": "SpaceX星艦火箭首次成功部署26顆Starlink V3衛星至近地軌道，大幅強化低軌通訊網路，並呼籲太空業者共享軌道數據確保安全。",
       "region": "int",
       "topic": "sat"
     },
     {
-      "title": "美日合作推動低軌衛星建設",
-      "summary": "美國與日本政府正式將AST SpaceMobile和樂天集團的低軌衛星基礎設施，納入雙邊科技繁榮協議，以強化印太地區的非地面電信韌性與技術領導地位。",
+      "title": "美日助攻AST SpaceMobile",
+      "summary": "美日簽署科技繁榮協議，支持美商AST SpaceMobile與日商樂天集團合作發展低軌衛星基礎設施，助攻其股價飆漲。",
       "region": "int",
       "topic": "sat"
     }
